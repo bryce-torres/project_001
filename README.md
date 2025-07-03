@@ -16,3 +16,6 @@ From this project, I accomplished the following:
 - I installed a Jupyter kernel
 - I created a notebook file
 - I pushed this commit to the repo
+
+- I wrote a README.md file
+- I fetched the file from origin into VSCode
